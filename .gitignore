@@ -7,3 +7,7 @@ screenshots/
 .env
 allure-results/
 allure-report/
+allure-results/
+allure-report/
+.pytest_cache/
+__pycache__/
